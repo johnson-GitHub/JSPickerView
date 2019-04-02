@@ -67,6 +67,7 @@
 		2C7A7AAE2248D87700C103D4 = {
 			isa = PBXGroup;
 			children = (
+				2CB7620D2253111300870B00 /* JSPickerView */,
 				2C7A7AB92248D87700C103D4 /* JSPickerViewController */,
 				2C7A7AB82248D87700C103D4 /* Products */,
 				09BFA8A3F9E5317D5731D08D /* Pods */,
@@ -89,8 +90,6 @@
 				2C7A7ABB2248D87700C103D4 /* AppDelegate.m */,
 				2C7A7ABD2248D87700C103D4 /* ViewController.h */,
 				2C7A7ABE2248D87700C103D4 /* ViewController.m */,
-				2C725265224A17EF00C5EAE2 /* JSPickerView.h */,
-				2C725264224A17EF00C5EAE2 /* JSPickerView.m */,
 				2C7A7AC02248D87700C103D4 /* Main.storyboard */,
 				2C7A7AC32248D87800C103D4 /* Assets.xcassets */,
 				2C7A7AC52248D87800C103D4 /* LaunchScreen.storyboard */,
@@ -98,6 +97,15 @@
 				2C7A7AC92248D87800C103D4 /* main.m */,
 			);
 			path = JSPickerViewController;
+			sourceTree = "<group>";
+		};
+		2CB7620D2253111300870B00 /* JSPickerView */ = {
+			isa = PBXGroup;
+			children = (
+				2C725265224A17EF00C5EAE2 /* JSPickerView.h */,
+				2C725264224A17EF00C5EAE2 /* JSPickerView.m */,
+			);
+			path = JSPickerView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
