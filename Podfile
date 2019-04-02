@@ -10,6 +10,6 @@ target 'JSPickerViewController' do
   # Pods for JSPickerViewController
 
 
-    pod 'Masonry', '~> 1.1.0'
+    pod 'Masonry'
 
 end

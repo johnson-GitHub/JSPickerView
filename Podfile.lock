@@ -2,7 +2,7 @@ PODS:
   - Masonry (1.1.0)
 
 DEPENDENCIES:
-  - Masonry (~> 1.1.0)
+  - Masonry
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
@@ -11,6 +11,6 @@ SPEC REPOS:
 SPEC CHECKSUMS:
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
 
-PODFILE CHECKSUM: a2761a5db55c35ab51a828bff268c57d47218b7f
+PODFILE CHECKSUM: 6f2a8a940625b813de27e8ec35c8ed4cf00522ef
 
 COCOAPODS: 1.5.3
